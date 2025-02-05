@@ -2,27 +2,27 @@
 
 **Live Demo:** [Click Here](https://elenetsotsonava.github.io/SaporeItaliano/)  
 
-Sapore Italiano is a beautifully designed **pizza restaurant website** showcasing the best flavors, ingredients, and ordering options. Built with **HTML, CSS, and JavaScript**, the site includes a dynamic menu, recipe fetching from an API, form validation, and a responsive layout.
+Sapore Italiano Sapore Italiano არის **პიცერიის ვებსაიტი**, რომელიც აჩვენებს გემრიელობებს, ინგრედიენტებს და შეკვეთის ვარიანტებს. იგი აგებულია **HTML, CSS და JavaScript**-ით.
 
 ---
 
 ## 🚀 Features
 
-✅ **Fully Responsive Design** (Works on desktop, tablet, and mobile)  
-✅ **Dynamic Recipe Fetching** (Uses Spoonacular API for pizza recipes)  
-✅ **Smooth Animations** (Scroll animations for a better user experience)  
-✅ **Navigation Menu with Burger Toggle** (Optimized for mobile screens)  
-✅ **Form Validation** (Includes email validation & show/hide password)  
-✅ **Cookie Notification** (Saves preference using localStorage)  
-✅ **Embedded Google Maps Location** (Easily find the restaurant)  
+✅ **Fully Responsive Design** (მუშაობს დესკტოპებზე, ტაბლეტებზე და მობილურებზე)  
+✅ **Dynamic Recipe Fetching** (იყენებს Spoonacular API-ს პიცის რეცეპტებისთვის)  
+✅ **Smooth Animations** (ანიმაციები გაუმჯობესებული User Experience-ისთვის)  
+✅ **Navigation Menu with Burger Toggle** (ოპტიმიზირებული მობილური მენიუებისთვის)  
+✅ **Form Validation** (შეიცავს ელ.ფოსტის სისწორის შემოწმებას და პაროლის ჩვენება/დამალვას)  
+✅ **Cookie Notification** (ინახავს preference-ს localStorage-ის გამოყენებით)  
 ✅ **GitHub Pages Deployment** (Live and accessible online)  
 
 
 ## 🛠️ Installation & Setup
 
-To run this project locally, follow these steps:
+პროექტის ლოკალურად გასაშვებად მიჰყევით შემდეგ ნაბიჯებს:
 
 1. **Clone the Repository**  
    ```sh
    git clone https://github.com/elenetsotsonava/Final-Project.git
    cd Final-Project
+2. **ან უბრალოდ გახსენით index.html ფაილი ბრაუზერში** 
