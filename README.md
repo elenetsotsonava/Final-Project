@@ -1,6 +1,6 @@
 # 🍕 Sapore Italiano - Pizza Restaurant Website
 
-**Live Demo:** [Click Here](https://elenetsotsonava.github.io/Final-Project/)  
+**Live Demo:** [Click Here](https://elenetsotsonava.github.io/SaporeItaliano/)  
 
 Sapore Italiano is a beautifully designed **pizza restaurant website** showcasing the best flavors, ingredients, and ordering options. Built with **HTML, CSS, and JavaScript**, the site includes a dynamic menu, recipe fetching from an API, form validation, and a responsive layout.
 
