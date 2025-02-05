@@ -2,7 +2,7 @@
 
 **Live Demo:** [Click Here](https://elenetsotsonava.github.io/SaporeItaliano/)  
 
-Sapore Italiano Sapore Italiano არის **პიცერიის ვებსაიტი**, რომელიც აჩვენებს გემრიელობებს, ინგრედიენტებს და შეკვეთის ვარიანტებს. იგი აგებულია **HTML, CSS და JavaScript**-ით.
+Sapore Italiano Sapore Italiano არის **პიცერიის ვებსაიტი**, რომელიც აჩვენებს გემრიელობებს, რეცეპტებს და შეკვეთის ვარიანტებს. იგი აგებულია **HTML, CSS და JavaScript**-ით.
 
 ---
 
